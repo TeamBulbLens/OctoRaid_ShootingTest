@@ -1,2 +1,2 @@
 # OctoRaid
- Development of OctoRaid Beta
+ Development of OctoRaid TEST
